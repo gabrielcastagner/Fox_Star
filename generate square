@@ -1,4 +1,0 @@
-float v[4][3] = { {c[0]+i-sizex,c[1]+yCoords[i-1][j-1], c[2]-j-1+sizez},
-			{c[0]+i-sizex,c[1]+yCoords[i-1][j-1], c[2]-j+sizez},
-			{c[0]+i+1-sizex,c[1]+yCoords[i-1][j-1], c[2]-j+sizez},
-			{c[0]+i+1-sizex,c[1]+yCoords[i-1][j-1], c[2]-j-1+sizez}};
